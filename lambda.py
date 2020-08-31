@@ -10,5 +10,5 @@ mylist = [1,2,3,4,5,6,7,8]
 #print(list(evens))
 
 #we can replace this with a simpler syntax
-evens= filter(lambda num:num%2 == 0,mylist)
+evens= filter(lambda num: num%2 == 0, mylist)
 print(list(evens))

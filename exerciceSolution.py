@@ -16,3 +16,4 @@ d1 =  {'simple_key':'hello'}
 d1['simple_key']
 
 d2 =  {'k1':{'k2':'hello'}}
+
